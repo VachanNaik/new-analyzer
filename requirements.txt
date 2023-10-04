@@ -1,0 +1,4 @@
+pandas
+dash==2.6.0
+gunicorn
+pip>=21.0.0
