@@ -66,7 +66,7 @@ import plotly.express as px
 df=pd.read_csv("data/bert.csv")
 
 # Initialize the app
-app = Dash(__name__)
+app1 = Dash(__name__)
 server=app1.server
 app=app1
 
