@@ -1,1 +1,9 @@
+body {
+    background-color: #f0f8ff; /* Or any other color */
+    background-image: url('background_image.jpg'); /* Add your image in the assets folder */
+    background-size: cover;
+}
 
+h1 {
+    color: #4CAF50;
+}
